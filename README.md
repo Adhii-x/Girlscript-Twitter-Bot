@@ -80,8 +80,5 @@ SLEEP_TIME = 300
 Feel free to **file a new issue** with a respective title and description on the the [Girlscript-Twitter-Bot](https://github.com/chandrikadeb7/Girlscript-Twitter-Bot/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
 
 
-## 📘&nbsp; License
-The Girlscript Twitter Bot is released under the under terms of the [MIT License](LICENSE).
-
 ## :heart: Contributor
-Made by [Chandrika Deb](https://github.com/chandrikadeb7)
+Made by [Adhi](https://github.com/Adhii-x)
